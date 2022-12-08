@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bài thi</string>
+    <string name="dangnhap">Đăng nhập</string>
+    <string name="username">User name</string>
+    <string name="pass_word">Pass word</string>
+    <string name="signin">Đăng nhập</string>
+    <string name="exit">Thoát</string>
+</resources>
